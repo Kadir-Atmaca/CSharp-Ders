@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\bin\Debug\eposta-gönderme.exe.config
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\bin\Debug\eposta-gönderme.exe
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\bin\Debug\eposta-gönderme.pdb
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\obj\Debug\eposta-gönderme.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\obj\Debug\eposta_gönderme.Form1.resources
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\obj\Debug\eposta_gönderme.Properties.Resources.resources
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\obj\Debug\eposta-gönderme.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\obj\Debug\eposta-gönderme.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\obj\Debug\eposta-gönderme.exe
+C:\Users\admin\Desktop\eposta\eposta-gönderme\eposta-gönderme\obj\Debug\eposta-gönderme.pdb
